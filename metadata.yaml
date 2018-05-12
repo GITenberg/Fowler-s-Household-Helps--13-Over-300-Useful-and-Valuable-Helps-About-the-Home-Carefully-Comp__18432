@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '8021'
     url: http://www.gutenberg.org/2009/agents/8021
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18432#Fowler-s-Household-Helps--13-Over-300-Useful-and-Valuable-Helps-About-the-Home-Carefully-Comp_
 gutenberg_issued: '2006-05-22'
 gutenberg_type: Text
 identifiers:
